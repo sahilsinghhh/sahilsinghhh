@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-🔭 I’m a **MERN Stack Developer** with **6 years of experience** building scalable, high-performance web applications and intuitive user experiences. I specialize in **JavaScript & TypeScript**, crafting responsive interfaces using **React.js, Next.js, Redux**, and modern UI frameworks.
+🔭 I’m a **MERN Stack Developer** with **6+ years of experience** building scalable, high-performance web applications and intuitive user experiences. I specialize in **JavaScript & TypeScript**, crafting responsive interfaces using **React.js, Next.js, Redux**, and modern UI frameworks.
 
 🔭 I have hands-on experience across **frontend and backend development**, building RESTful APIs with **Node.js and Express.js**, managing data with **MongoDB**, and deploying applications on **AWS (EC2, S3, CloudFront, Lambda, API Gateway)** using both **traditional and serverless architectures**.
 
