@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
-<h3 align="center">MERN Stack Developer | AWS | Serverless | Modern Web Apps</h3>
+<h3 align="center">Senior Software Engineer | Frontend & Full Stack Developer | AI Integration | AWS</h3>
 
 <p align="center">
   <a href="https://devsahilsinghh.web.app/" target="_blank">🌐 Portfolio</a> •
@@ -16,11 +16,15 @@
 
 ## 🚀 About Me
 
-🔭 I’m a **MERN Stack Developer** with **6+ years of experience** building scalable, high-performance web applications and intuitive user experiences. I specialize in **JavaScript & TypeScript**, crafting responsive interfaces using **React.js, Next.js, Redux**, and modern UI frameworks.
+🔭 I’m a **Senior Software Engineer** with **6+ years of experience** building scalable, high-performance web and mobile applications. I specialize in **JavaScript, TypeScript, React.js, Next.js, Redux, Node.js, Python, FastAPI**, and modern full-stack development.
 
-🔭 I have hands-on experience across **frontend and backend development**, building RESTful APIs with **Node.js and Express.js**, managing data with **MongoDB**, and deploying applications on **AWS (EC2, S3, CloudFront, Lambda, API Gateway)** using both **traditional and serverless architectures**.
+💻 I have strong experience in **frontend and backend development**, building reusable component architectures, responsive user interfaces, RESTful APIs, GraphQL integrations, and scalable applications using **Node.js, Express.js, Python, FastAPI, MongoDB, and PostgreSQL**.
 
-🚀 I focus on clean, maintainable code, performance optimization, and delivering seamless user experiences. I also leverage **AI-powered developer tools** to boost productivity and code quality.
+🤖 I work on **AI-powered applications and support solutions** using **OpenAI APIs, LangChain, and RAG pipelines**, integrating AI capabilities with enterprise applications to automate workflows and improve user experiences.
+
+☁️ I have hands-on experience with **AWS services**, including **EC2, S3, CloudFront, Lambda, API Gateway, and IAM**, along with Microservices Architecture, CI/CD pipelines, and cloud deployments.
+
+🚀 I focus on clean, maintainable code, performance optimization, scalable architecture, and delivering secure, user-focused digital products.
 
 ---
 
@@ -29,31 +33,52 @@
 ### 🔹 Languages
 - JavaScript
 - TypeScript
+- Python
 
 ### 🎨 Frontend
-- HTML, CSS
+- HTML5, CSS3
 - React.js, Next.js
 - Redux
+- React Hooks
 - Tailwind CSS, Material UI, Bootstrap
+- Adobe Spectrum UI
 - GraphQL
 - React Native
 
 ### ⚙️ Backend
 - Node.js
 - Express.js
+- Python
+- FastAPI
+- RESTful APIs
+- Microservices Architecture
+
+### 🤖 AI & LLM
+- OpenAI APIs
+- LangChain
+- RAG (Retrieval-Augmented Generation)
+- AI Integration
+- Prompt Engineering
 
 ### 🗄️ Database
 - MongoDB
+- PostgreSQL
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, CloudFront, Lambda, API Gateway)
+- AWS (EC2, S3, CloudFront, Lambda, API Gateway, IAM)
+- CI/CD Pipelines
 - Serverless Architecture
+
+### 🧪 Testing
+- Jest
+- React Testing Library
 
 ### 🤖 AI Developer Tools
 - ChatGPT
 - GitHub Copilot
 - Google Gemini
 - Cursor
+- Claude code
 
 ### 📌 Project Management
 - Agile (Scrum, Kanban)
@@ -68,7 +93,8 @@
 ---
 
 ## 👨‍💻 Projects
-- All of my projects are available here 👉 **[GitHub](https://github.com/sahilsinghhh)**  
+
+- All of my projects are available here 👉 **[GitHub](https://github.com/sahilsinghhh)**
 - Live demos and case studies 👉 **[Portfolio](https://devsahilsinghh.web.app/)**
 
 ---
@@ -77,6 +103,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sahil-singhhh/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
 </a>
 </p>
